@@ -1,0 +1,10 @@
+Server SUPPORT 
+======================
+
+It is possible to run O9coin php, like wamp or xamp
+
+The directions assume you have a O9coin running on port 9080. Many distributions
+default to having a localhost on port 9050, but others may not.
+
+
+Download the folders connect the db and run your files successfully.
