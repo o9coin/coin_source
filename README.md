@@ -18,7 +18,6 @@ with each other, with the help of a P2P network to check for double-spending.
 
 Setup
 -----
-Unpack the files into a directory and run O9coin-qt.exe.
 
 O9coin-Qt is the original O9coin client and it builds the backbone of the network.
 However, it downloads and stores the entire history of O9coin transactions;
